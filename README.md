@@ -1,8 +1,8 @@
 # react-study-todo
 ---
 
-[🌐 Result](https://ju-nong.github.io/react-study-todo, "Todos")<br>
-[💾 Source](https://github.com/ju-nong/react-study/tree/main/todo, "Repository")
+[🌐 Result](https://ju-nong.github.io/react-study-todo "Todos")<br>
+[💾 Source](https://github.com/ju-nong/react-study/tree/main/todo "Repository")
 
 ### 빌드
 ```
