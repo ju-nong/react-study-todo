@@ -1,6 +1,8 @@
 # react-study-todo
 ---
 
+결과물: [Todos](https://ju-nong.github.io/react-study-todo, "Todos")
+
 ### 빌드
 ```
 💡 github pages 패키지 설치
